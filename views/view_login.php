@@ -51,7 +51,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 Eventify | All Rights Reserved</p>
+    <p>&copy; 2026  Eventify</p>
   </footer>
 </body>
 </html>

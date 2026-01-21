@@ -46,7 +46,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
 <header>
-    <h1>EventSphere</h1>
+    <h1>Eventify</h1>
     <nav>
       <a href="Customer_view.php">Dashboard</a>
       <a href="event_booking.php">Event Booking</a>
@@ -73,6 +73,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </form>
 </main>
 <footer>
-    <p>&copy; 2025 EventSphere. All rights reserved.</p>
+    <p>&copy; 2026 Eventify</p>
 </body>
 </html>

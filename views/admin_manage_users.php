@@ -34,7 +34,7 @@ $users = $controller->getUsers();
 </head>
 <body>
 <header>
-  <h1>EventSphere</h1>
+  <h1>Eventify</h1>
   <nav>
       <a href="admin_view.php">Dashboard</a>
       
@@ -106,7 +106,7 @@ $users = $controller->getUsers();
 </main>
 
 <footer>
-   <p>&copy; 2025 EventSphere | All Rights Reserved</p>
+   <p>&copy; 2026 Eventify</p>
 
 </footer>
 </body>

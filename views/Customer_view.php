@@ -9,14 +9,14 @@ $fullname = $controller->getUserName();
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Customer Dashboard - EventSphere</title>
+  <title>Customer Dashboard - Eventify</title>
   <link rel="stylesheet" href="../CSS/customer_dashboard.css?v=1.3">
 </head>
 <body>
 
   <!-- Navbar -->
   <header>
-    <h1>EventSphere</h1>
+    <h1>Eventify</h1>
     <nav>
       <a href="event_booking.php">Event Booking</a>
       <a href="my_booking.php">My Bookings</a>
@@ -75,7 +75,7 @@ $fullname = $controller->getUserName();
   </script>
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 EventSphere | All Rights Reserved</p>
+    <p>&copy; 2026 Eventify</p>
   </footer>
 </body>
 </html>

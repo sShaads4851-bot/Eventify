@@ -86,7 +86,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   </div>
 
   <footer>
-    <p>&copy; 2025 Eventify | All Rights Reserved</p>
+    <p>&copy; 2026 Eventify </p>
   </footer>
 
   <!-- Script placed at end, using DOMContentLoaded to be safe -->

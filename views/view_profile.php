@@ -15,14 +15,14 @@ $user = $controller->getProfile();
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Profile - EventSphere</title>
+  <title>Profile - Eventify</title>
   <link rel="stylesheet" href="../CSS/profile.css">
 </head>
 <body>
 
   <!-- Navbar -->
   <header>
-    <h1>EventSphere</h1>
+    <h1>Eventify</h1>
     <nav>
       <a href="Customer_view.php">Dashboard</a>
       <a href="event_booking.php">Event Booking</a>
@@ -65,7 +65,7 @@ $user = $controller->getProfile();
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 EventSphere | All Rights Reserved</p>
+    <p>&copy; 2026 Eventify</p>
   </footer>
 </body>
 </html>
